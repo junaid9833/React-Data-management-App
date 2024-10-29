@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Data-management-App/static/css/main.ab22396c.css",
-    "main.js": "/React-Data-management-App/static/js/main.db292548.js",
+    "main.js": "/React-Data-management-App/static/js/main.6c20e1de.js",
     "static/js/453.482c7054.chunk.js": "/React-Data-management-App/static/js/453.482c7054.chunk.js",
     "static/media/fa-solid-900.ttf": "/React-Data-management-App/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/React-Data-management-App/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
@@ -13,11 +13,11 @@
     "static/media/fa-v4compatibility.woff2": "/React-Data-management-App/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/React-Data-management-App/index.html",
     "main.ab22396c.css.map": "/React-Data-management-App/static/css/main.ab22396c.css.map",
-    "main.db292548.js.map": "/React-Data-management-App/static/js/main.db292548.js.map",
+    "main.6c20e1de.js.map": "/React-Data-management-App/static/js/main.6c20e1de.js.map",
     "453.482c7054.chunk.js.map": "/React-Data-management-App/static/js/453.482c7054.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab22396c.css",
-    "static/js/main.db292548.js"
+    "static/js/main.6c20e1de.js"
   ]
 }
